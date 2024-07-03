@@ -1,0 +1,12 @@
+.carroussel {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: auto;
+  width: 100%;
+  max-width: 100%;
+}
+
+#characters {
+  display: flex;
+  flex-direction: column;
+}/*# sourceMappingURL=slider.css.map */
